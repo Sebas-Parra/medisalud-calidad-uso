@@ -1,0 +1,27 @@
+name: Medicion Calidad en Uso - MediSalud
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Cada lunes a las 06:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  calcular-metricas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependencias
+        run: pip install pandas numpy
+      - name: Ejecutar calculo de metricas
+        run: python scripts/metricas_iso25022.py
+      - name: Exportar reporte JSON
+        run: python scripts/exportar_reporte.py
+      - name: Subir artefacto de indicadores
+        uses: actions/upload-artifact@v4
+        with:
+          name: indicadores-calidad-uso
+          path: dashboards/indicadores.json

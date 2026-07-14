@@ -1,0 +1,151 @@
+respuesta_id,sede,rol,puntaje_csat,comentario
+1,Cuenca,Enfermeria,3,
+2,Manta,Medico,4,Buena experiencia en esta ocasion
+3,Manta,Medico,4,El sistema funciona bien en general
+4,Ambato,Farmacia,3,
+5,Quito,Enfermeria,4,El sistema funciona bien en general
+6,Guayaquil,Gerencia,5,El sistema funciona bien en general
+7,Manta,Paciente,1,El formulario de agendamiento es confuso
+8,Manta,Enfermeria,5,Buena experiencia en esta ocasion
+9,Ambato,Enfermeria,3,
+10,Manta,Gerencia,4,Facil de usar una vez que aprendes el flujo
+11,Quito,Paciente,3,
+12,Quito,Paciente,3,
+13,Quito,Paciente,4,Sin problemas relevantes
+14,Cuenca,Farmacia,4,Sin problemas relevantes
+15,Cuenca,Admision,4,Facil de usar una vez que aprendes el flujo
+16,Quito,Paciente,4,Buena experiencia en esta ocasion
+17,Manta,Farmacia,5,Buena experiencia en esta ocasion
+18,Manta,Medico,3,
+19,Quito,Paciente,2,El audio se desincroniza durante la videoconsulta
+20,Ambato,Farmacia,5,El sistema funciona bien en general
+21,Quito,Paciente,1,Es lento en horas pico
+22,Cuenca,Gerencia,3,
+23,Cuenca,Paciente,1,El formulario de agendamiento es confuso
+24,Quito,Admision,4,Sin problemas relevantes
+25,Quito,Medico,4,Sin problemas relevantes
+26,Cuenca,Gerencia,3,
+27,Ambato,Gerencia,3,
+28,Cuenca,Enfermeria,5,El sistema funciona bien en general
+29,Ambato,Medico,4,Facil de usar una vez que aprendes el flujo
+30,Ambato,Farmacia,5,Sin problemas relevantes
+31,Quito,Enfermeria,3,
+32,Guayaquil,Farmacia,4,Buena experiencia en esta ocasion
+33,Ambato,Admision,3,
+34,Guayaquil,Enfermeria,3,
+35,Quito,Enfermeria,4,El sistema funciona bien en general
+36,Ambato,Paciente,4,Facil de usar una vez que aprendes el flujo
+37,Cuenca,Admision,4,Buena experiencia en esta ocasion
+38,Manta,Paciente,3,
+39,Cuenca,Enfermeria,3,
+40,Manta,Gerencia,3,
+41,Quito,Farmacia,5,Sin problemas relevantes
+42,Ambato,Farmacia,3,
+43,Ambato,Medico,3,
+44,Guayaquil,Medico,4,Facil de usar una vez que aprendes el flujo
+45,Ambato,Enfermeria,5,El sistema funciona bien en general
+46,Quito,Paciente,4,Facil de usar una vez que aprendes el flujo
+47,Manta,Medico,5,El sistema funciona bien en general
+48,Guayaquil,Paciente,3,
+49,Ambato,Enfermeria,2,Es lento en horas pico
+50,Ambato,Medico,2,El formulario de agendamiento es confuso
+51,Ambato,Farmacia,3,
+52,Guayaquil,Medico,4,Buena experiencia en esta ocasion
+53,Cuenca,Farmacia,4,El sistema funciona bien en general
+54,Guayaquil,Paciente,3,
+55,Cuenca,Enfermeria,3,
+56,Manta,Admision,2,El formulario de agendamiento es confuso
+57,Cuenca,Paciente,3,
+58,Guayaquil,Paciente,4,Buena experiencia en esta ocasion
+59,Guayaquil,Paciente,4,Facil de usar una vez que aprendes el flujo
+60,Guayaquil,Farmacia,1,El audio se desincroniza durante la videoconsulta
+61,Guayaquil,Paciente,2,El formulario de agendamiento es confuso
+62,Cuenca,Farmacia,4,Buena experiencia en esta ocasion
+63,Guayaquil,Gerencia,3,
+64,Cuenca,Admision,3,
+65,Quito,Enfermeria,5,Buena experiencia en esta ocasion
+66,Guayaquil,Farmacia,4,El sistema funciona bien en general
+67,Ambato,Gerencia,3,
+68,Quito,Farmacia,5,Facil de usar una vez que aprendes el flujo
+69,Ambato,Enfermeria,3,
+70,Quito,Gerencia,5,Sin problemas relevantes
+71,Ambato,Farmacia,4,Facil de usar una vez que aprendes el flujo
+72,Guayaquil,Enfermeria,3,
+73,Quito,Enfermeria,3,
+74,Guayaquil,Paciente,3,
+75,Manta,Farmacia,3,
+76,Manta,Paciente,2,El audio se desincroniza durante la videoconsulta
+77,Quito,Medico,4,El sistema funciona bien en general
+78,Manta,Gerencia,3,
+79,Guayaquil,Farmacia,4,Facil de usar una vez que aprendes el flujo
+80,Quito,Admision,3,
+81,Guayaquil,Admision,2,Es lento en horas pico
+82,Cuenca,Paciente,3,
+83,Ambato,Enfermeria,5,Sin problemas relevantes
+84,Manta,Paciente,4,Sin problemas relevantes
+85,Manta,Enfermeria,3,
+86,Quito,Farmacia,4,Facil de usar una vez que aprendes el flujo
+87,Manta,Medico,4,Facil de usar una vez que aprendes el flujo
+88,Ambato,Paciente,3,
+89,Quito,Paciente,4,Sin problemas relevantes
+90,Quito,Paciente,4,El sistema funciona bien en general
+91,Guayaquil,Enfermeria,3,
+92,Manta,Farmacia,5,El sistema funciona bien en general
+93,Quito,Farmacia,3,
+94,Manta,Paciente,5,Facil de usar una vez que aprendes el flujo
+95,Cuenca,Farmacia,2,El audio se desincroniza durante la videoconsulta
+96,Manta,Admision,3,
+97,Manta,Enfermeria,4,El sistema funciona bien en general
+98,Ambato,Farmacia,3,
+99,Cuenca,Medico,3,
+100,Guayaquil,Gerencia,3,
+101,Cuenca,Medico,4,Buena experiencia en esta ocasion
+102,Guayaquil,Admision,3,
+103,Guayaquil,Farmacia,4,Sin problemas relevantes
+104,Ambato,Enfermeria,5,Facil de usar una vez que aprendes el flujo
+105,Guayaquil,Gerencia,3,
+106,Cuenca,Farmacia,4,Facil de usar una vez que aprendes el flujo
+107,Cuenca,Admision,4,Buena experiencia en esta ocasion
+108,Manta,Farmacia,4,Sin problemas relevantes
+109,Quito,Farmacia,3,
+110,Manta,Medico,5,El sistema funciona bien en general
+111,Guayaquil,Medico,4,Facil de usar una vez que aprendes el flujo
+112,Cuenca,Enfermeria,4,Sin problemas relevantes
+113,Cuenca,Farmacia,5,Sin problemas relevantes
+114,Cuenca,Medico,5,Buena experiencia en esta ocasion
+115,Quito,Gerencia,5,Buena experiencia en esta ocasion
+116,Quito,Gerencia,5,El sistema funciona bien en general
+117,Cuenca,Medico,3,
+118,Cuenca,Medico,3,
+119,Ambato,Medico,3,
+120,Cuenca,Paciente,4,Facil de usar una vez que aprendes el flujo
+121,Quito,Paciente,3,
+122,Guayaquil,Admision,1,El formulario de agendamiento es confuso
+123,Guayaquil,Enfermeria,5,Facil de usar una vez que aprendes el flujo
+124,Cuenca,Farmacia,3,
+125,Manta,Gerencia,4,El sistema funciona bien en general
+126,Cuenca,Medico,4,El sistema funciona bien en general
+127,Quito,Gerencia,2,Tuve que repetir varias veces la misma accion
+128,Guayaquil,Farmacia,4,El sistema funciona bien en general
+129,Ambato,Gerencia,2,Tuve que repetir varias veces la misma accion
+130,Manta,Admision,4,Facil de usar una vez que aprendes el flujo
+131,Guayaquil,Admision,4,Facil de usar una vez que aprendes el flujo
+132,Ambato,Admision,5,El sistema funciona bien en general
+133,Guayaquil,Medico,5,Buena experiencia en esta ocasion
+134,Ambato,Enfermeria,4,El sistema funciona bien en general
+135,Quito,Gerencia,5,Buena experiencia en esta ocasion
+136,Manta,Enfermeria,2,Es lento en horas pico
+137,Quito,Farmacia,4,El sistema funciona bien en general
+138,Cuenca,Admision,4,Buena experiencia en esta ocasion
+139,Manta,Admision,4,Buena experiencia en esta ocasion
+140,Guayaquil,Admision,5,Facil de usar una vez que aprendes el flujo
+141,Quito,Admision,3,
+142,Manta,Gerencia,5,Facil de usar una vez que aprendes el flujo
+143,Guayaquil,Paciente,3,
+144,Quito,Enfermeria,3,
+145,Ambato,Paciente,3,
+146,Cuenca,Gerencia,4,Facil de usar una vez que aprendes el flujo
+147,Quito,Paciente,5,Facil de usar una vez que aprendes el flujo
+148,Manta,Farmacia,3,
+149,Cuenca,Gerencia,5,Facil de usar una vez que aprendes el flujo
+150,Quito,Gerencia,4,Sin problemas relevantes

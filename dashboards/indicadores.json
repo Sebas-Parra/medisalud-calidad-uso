@@ -1,0 +1,78 @@
+{
+  "metricas": {
+    "efectividad": {
+      "nombre": "Completitud de registro de HCE",
+      "caracteristica": "Efectividad",
+      "valor": 0.9651,
+      "unidad": "proporcion",
+      "umbral": 0.95,
+      "cumple": true
+    },
+    "eficiencia": {
+      "nombre": "Tiempo promedio de registro de HCE",
+      "caracteristica": "Eficiencia",
+      "valor": 7.43,
+      "unidad": "segundos",
+      "umbral": 8.0,
+      "cumple": true
+    },
+    "eficiencia_hora_pico": {
+      "nombre": "Tiempo promedio de registro de HCE en hora pico (10-12h)",
+      "caracteristica": "Eficiencia",
+      "valor": 10.47,
+      "unidad": "segundos",
+      "umbral": 8.0,
+      "cumple": false,
+      "tiempo_promedio_resto_del_dia": 6.48,
+      "pct_registros_en_pico_que_incumplen": 84.1
+    },
+    "cobertura_contexto": {
+      "nombre": "Consistencia del tiempo de registro entre sedes",
+      "caracteristica": "Cobertura de Contexto",
+      "valor": 0.984,
+      "unidad": "indice (0-1)",
+      "umbral": 0.85,
+      "cumple": true,
+      "sede_mejor": "Guayaquil",
+      "sede_peor": "Ambato"
+    },
+    "satisfaccion": {
+      "nombre": "Indice de satisfaccion (CSAT normalizado)",
+      "caracteristica": "Satisfaccion",
+      "valor": 0.7173,
+      "unidad": "proporcion (0-1)",
+      "umbral": 0.8,
+      "cumple": false
+    },
+    "libertad_riesgo": {
+      "nombre": "Tasa de errores de facturacion",
+      "caracteristica": "Libertad de Riesgo",
+      "valor": 0.0029,
+      "unidad": "proporcion",
+      "umbral": 0.01,
+      "cumple": true
+    }
+  },
+  "eficiencia_por_sede": [
+    {
+      "sede": "Ambato",
+      "tiempo_promedio_segundos": 7.5
+    },
+    {
+      "sede": "Cuenca",
+      "tiempo_promedio_segundos": 7.4
+    },
+    {
+      "sede": "Guayaquil",
+      "tiempo_promedio_segundos": 7.38
+    },
+    {
+      "sede": "Manta",
+      "tiempo_promedio_segundos": 7.5
+    },
+    {
+      "sede": "Quito",
+      "tiempo_promedio_segundos": 7.42
+    }
+  ]
+}
